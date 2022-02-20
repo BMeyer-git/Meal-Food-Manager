@@ -3,7 +3,7 @@
 This software is intended as a meal list manager that runs off of a cloud database. Users can add new meals, categorize them by the type of meal, and then edit or add
 information that helps to document the meal. I wrote it to familiarize myself with how cloud databases work and how they can be interacted with through python.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bQVROasIDpI)
 
 # Cloud Database
 
