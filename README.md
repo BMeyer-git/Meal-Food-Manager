@@ -7,7 +7,6 @@ information that helps to document the meal. I wrote it to familiarize myself wi
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
 I used firestore through firebase to store the cloud data. It has a simple structure consisting of one collection labeled "meals," that is then filled with documents titled after each meal that has been added to the collection. Each meal document starts with an empty category attribute, and the program allows for more attributes to be added.
 
 # Development Environment
@@ -19,7 +18,6 @@ I used firestore through firebase to store the cloud data. It has a simple struc
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Firebase Documentation](https://firebase.google.com/docs/firestore)
 * [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 
