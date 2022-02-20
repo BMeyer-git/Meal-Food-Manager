@@ -56,7 +56,8 @@ def display_meal_data(meal_name):
     desired_meal_ref = db.collection("meals").document(meal_name)
     desired_meal = desired_meal_ref.get()
     print("Information on " + meal_name + ":")
-    print(desired_meal.to_dict() + "\n")
+    print(desired_meal.to_dict())
+    print("\n")
 
 def display_all_by_meal_type(meal_type):
     '''Displays every meal within a provided category'''
